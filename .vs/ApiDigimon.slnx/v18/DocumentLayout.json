@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\controllers\\domadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\controllers\\domadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\controllers\\digimoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\controllers\\digimoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\models\\digimoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\models\\digimoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\models\\domador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\models\\domador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|c:\\users\\pspa_\\source\\repos\\apidigimon\\apidigimon\\models\\digimon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443274BF-9EB4-404E-97C4-320E65410A82}|ApiDigimon\\ApiDigimon.csproj|solutionrelative:apidigimon\\models\\digimon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiDigimon\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiDigimon\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T01:25:24.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DigimonController.cs",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Controllers\\DigimonController.cs",
+              "RelativeDocumentMoniker": "ApiDigimon\\Controllers\\DigimonController.cs",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Controllers\\DigimonController.cs",
+              "RelativeToolTip": "ApiDigimon\\Controllers\\DigimonController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T01:25:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Controllers\\DomadoresController.cs",
+              "RelativeDocumentMoniker": "ApiDigimon\\Controllers\\DomadoresController.cs",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Controllers\\DomadoresController.cs",
+              "RelativeToolTip": "ApiDigimon\\Controllers\\DomadoresController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T00:15:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Web.config",
+              "RelativeDocumentMoniker": "ApiDigimon\\Web.config",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Web.config",
+              "RelativeToolTip": "ApiDigimon\\Web.config",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-15T00:14:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DigimonContext.cs",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Models\\DigimonContext.cs",
+              "RelativeDocumentMoniker": "ApiDigimon\\Models\\DigimonContext.cs",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Models\\DigimonContext.cs",
+              "RelativeToolTip": "ApiDigimon\\Models\\DigimonContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T00:14:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Digimon.cs",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Models\\Digimon.cs",
+              "RelativeDocumentMoniker": "ApiDigimon\\Models\\Digimon.cs",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Models\\Digimon.cs",
+              "RelativeToolTip": "ApiDigimon\\Models\\Digimon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T00:13:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domador.cs",
+              "DocumentMoniker": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Models\\Domador.cs",
+              "RelativeDocumentMoniker": "ApiDigimon\\Models\\Domador.cs",
+              "ToolTip": "C:\\Users\\pspa_\\source\\repos\\ApiDigimon\\ApiDigimon\\Models\\Domador.cs",
+              "RelativeToolTip": "ApiDigimon\\Models\\Domador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T00:13:22.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
